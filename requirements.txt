@@ -7,3 +7,4 @@ matplotlib
 streamlit
 xgboost
 streamlit-aggrid
+scikit-learn
