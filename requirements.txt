@@ -8,3 +8,6 @@ streamlit
 xgboost
 streamlit-aggrid
 scikit-learn
+gspread
+gspread-dataframe
+tableau-api-lib
